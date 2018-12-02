@@ -1,0 +1,13 @@
+<html>
+    <head>
+        <script src="plastic-button.js"></script>
+        <script>
+            var handleClick = function() {
+                console.info("External event handler: received");
+            }
+        </script>
+    </head>
+    <body>
+        <button is="plastic-button" onclick="handleClick()">Click me!</button>
+    </body>
+</html>
