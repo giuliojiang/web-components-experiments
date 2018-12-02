@@ -1,0 +1,22 @@
+{
+  "name": "web-components-experiments",
+  "version": "1.0.0",
+  "description": "Trying out web components and custom elements",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giuliojiang/web-components-experiments.git"
+  },
+  "author": "giuliojiang",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/giuliojiang/web-components-experiments/issues"
+  },
+  "homepage": "https://github.com/giuliojiang/web-components-experiments#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
